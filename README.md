@@ -1,4 +1,5 @@
 hngkr.github.io
 ===============
 
-[Winning AWS GameDay 2014](/winning_gameday/)
+Presentation for the [Danish AWS User Group](http://www.meetup.com/Copenhagen-AWS-User-Group/
+) [Winning AWS GameDay 2014](http://hngkr.github.io/winning_gameday/)
